@@ -21,6 +21,11 @@
 - [연습문제 - 수박수박수박수박수박수?](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/watermelon.py)
 
 ### Level 2
+- [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)
+- [해시 - 전화번호 목록](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/hash_phoneNumberList.py)
+- [2020 카카오 인턴십 - 수식 최대화](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/maximize_formula.py)
+- [힙(Heap) - 더 맵게](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/more_spicy.py)
+- [2019 KAKAO BLIND RECRUITMENT - 오픈채팅방](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/open_chat_room.py)
 
 ## 나동빈 이취코테
 - "이것이 취업을 위한 코딩 테스트다 with 파이썬"에서 푼 문제 정리 & 개념 정리

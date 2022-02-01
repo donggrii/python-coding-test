@@ -28,4 +28,18 @@
 - [2019 KAKAO BLIND RECRUITMENT - 오픈채팅방](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/open_chat_room.py)
 
 ## 나동빈 이취코테
-- "이것이 취업을 위한 코딩 테스트다 with 파이썬"에서 푼 문제 정리 & 개념 정리
+- 나동빈 님이 쓰신 "이것이 취업을 위한 코딩 테스트다 with 파이썬" 책에서 푼 문제 정리 & 개념 정리
+
+### 1. 그리디(Greedy)
+1. [거스름돈](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/1.%20Greedy/3_1_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py)
+2. [큰 수의 법칙](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/1.%20Greedy/3_2_%ED%81%B0%20%EC%88%98%EC%9D%98%20%EB%B2%95%EC%B9%99.py)
+3. [숫자 카드 게임](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/1.%20Greedy/3_3_%EC%88%AB%EC%9E%90%20%EC%B9%B4%EB%93%9C%20%EA%B2%8C%EC%9E%84.py)
+4. [1이 될 때까지](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/1.%20Greedy/3_4_1%EC%9D%B4%20%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80.py)
+
+### 2. 구현(Implementation)
+
+
+## CodeUp
+- 온라인 알고리즘 풀이 사이트인 [코드업(CodeUp)](https://codeup.kr/index.php)에서 푼 문제 정리
+
+### 그리디

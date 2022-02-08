@@ -1,5 +1,5 @@
 # python-coding-test
-- Python 코딩 테스트 문제 풀이
+- Python 코딩 테스트 문제 풀이 : 매일 1문제 풀고 정리하여 업로드
 
 ## Programmers
 - [Programmers](https://programmers.co.kr/)에서 푼 문제 정리
@@ -37,9 +37,19 @@
 4. [1이 될 때까지](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/1.%20Greedy/3_4_1%EC%9D%B4%20%EB%90%A0%20%EB%95%8C%EA%B9%8C%EC%A7%80.py)
 
 ### 2. 구현(Implementation)
-
+1. [상하좌우](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_1_%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)
+2. [시각](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_2_%EC%8B%9C%EA%B0%81.py)
 
 ## CodeUp
 - 온라인 알고리즘 풀이 사이트인 [코드업(CodeUp)](https://codeup.kr/index.php)에서 푼 문제 정리
 
 ### 그리디
+1. [2001_최소대금](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EA%B7%B8%EB%A6%AC%EB%94%94/2001_%EC%B5%9C%EC%86%8C%EB%8C%80%EA%B8%88.py)
+2. [3120_리모컨](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EA%B7%B8%EB%A6%AC%EB%94%94/3120_%EB%A6%AC%EB%AA%A8%EC%BB%A8.py)
+3. [3301_거스름돈](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EA%B7%B8%EB%A6%AC%EB%94%94/3301_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py)
+4. [3321_최고의 피자](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EA%B7%B8%EB%A6%AC%EB%94%94/3321_%EC%B5%9C%EA%B3%A0%EC%9D%98%20%ED%94%BC%EC%9E%90.py)
+
+### 스택
+1. [1402_거꾸로 출력하기 3](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%8A%A4%ED%83%9D/1402_%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0%203.py)
+2. [1714_숫자 거꾸로 출력하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%8A%A4%ED%83%9D/1714_%EC%88%AB%EC%9E%90%20%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)
+3. [3117_0은 빼](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%8A%A4%ED%83%9D/3117_0%EC%9D%80%20%EB%B9%BC.py)

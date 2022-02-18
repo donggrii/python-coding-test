@@ -39,6 +39,11 @@
 ### 2. 구현(Implementation)
 1. [상하좌우](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_1_%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)
 2. [시각](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_2_%EC%8B%9C%EA%B0%81.py)
+3. [왕실의 나이트](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_3_%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)
+
+### 3. DFS & BFS
+- [개념 설명 & 예제]()
+- [유클리드 호제법 (최대공약수, 최소공배수)]()
 
 ## CodeUp
 - 온라인 알고리즘 풀이 사이트인 [코드업(CodeUp)](https://codeup.kr/index.php)에서 푼 문제 정리
@@ -48,6 +53,7 @@
 2. [3120_리모컨](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EA%B7%B8%EB%A6%AC%EB%94%94/3120_%EB%A6%AC%EB%AA%A8%EC%BB%A8.py)
 3. [3301_거스름돈](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EA%B7%B8%EB%A6%AC%EB%94%94/3301_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py)
 4. [3321_최고의 피자](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EA%B7%B8%EB%A6%AC%EB%94%94/3321_%EC%B5%9C%EA%B3%A0%EC%9D%98%20%ED%94%BC%EC%9E%90.py)
+5. [4040_펜션](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EA%B7%B8%EB%A6%AC%EB%94%94/4040_%ED%8E%9C%EC%85%98.py)
 
 ### 스택
 1. [1402_거꾸로 출력하기 3](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%8A%A4%ED%83%9D/1402_%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0%203.py)

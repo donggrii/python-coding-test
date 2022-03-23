@@ -28,7 +28,7 @@
 - [2019 KAKAO BLIND RECRUITMENT - 오픈채팅방](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/open_chat_room.py)
 
 ## 나동빈 이취코테
-- 나동빈 님이 쓰신 "이것이 취업을 위한 코딩 테스트다 with 파이썬" 책에서 푼 문제 정리 & 개념 정리
+- 나동빈 님이 집필하신 "이것이 취업을 위한 코딩 테스트다 with 파이썬" 책에서 푼 문제 정리 & 개념 정리
 
 ### 1. 그리디(Greedy)
 1. [거스름돈](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/1.%20Greedy/3_1_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py)
@@ -40,10 +40,22 @@
 1. [상하좌우](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_1_%EC%83%81%ED%95%98%EC%A2%8C%EC%9A%B0.py)
 2. [시각](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_2_%EC%8B%9C%EA%B0%81.py)
 3. [왕실의 나이트](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_3_%EC%99%95%EC%8B%A4%EC%9D%98%20%EB%82%98%EC%9D%B4%ED%8A%B8.py)
+4. [게임 개발](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/2.%20Implementation/4_4_%EA%B2%8C%EC%9E%84%20%EA%B0%9C%EB%B0%9C.py)
 
 ### 3. DFS & BFS
-- [개념 설명 & 예제]()
-- [유클리드 호제법 (최대공약수, 최소공배수)]()
+- [개념 설명 & 예제](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/3.%20DFS%20%26%20BFS/DFS_BFS.ipynb)
+- [유클리드 호제법 (최대공약수, 최소공배수)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/3.%20DFS%20%26%20BFS/Euclidean_algorithm(GCD%2CLCM).ipynb)
+1. [음료수 얼려 먹기](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/3.%20DFS%20%26%20BFS/5_1_%EC%9D%8C%EB%A3%8C%EC%88%98%20%EC%96%BC%EB%A0%A4%20%EB%A8%B9%EA%B8%B0.py)
+2. [미로 탈출](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/3.%20DFS%20%26%20BFS/5_2_%EB%AF%B8%EB%A1%9C%20%ED%83%88%EC%B6%9C.py)
+
+### 4. Sorting
+- 정렬 알고리즘 정리
+    - [선택 정렬(Selection Sort)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/4.%20Sorting/%EC%84%A0%ED%83%9D%20%EC%A0%95%EB%A0%AC(Selection%20Sort).py)
+    - [삽입 정렬(Insertion Sort)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/4.%20Sorting/%EC%82%BD%EC%9E%85%20%EC%A0%95%EB%A0%AC(Insertion%20Sort).py)
+    - [퀵 정렬(Quick Sort)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/4.%20Sorting/%ED%80%B5%20%EC%A0%95%EB%A0%AC(Quick%20Sort).py)
+    - [계수 정렬(Count Sort)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/4.%20Sorting/%EA%B3%84%EC%88%98%20%EC%A0%95%EB%A0%AC(Count%20Sort).py)
+    - [파이썬 기본 정렬 라이브러리 & 정렬 문제 출제 유형 정리](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/4.%20Sorting/%ED%8C%8C%EC%9D%B4%EC%8D%AC%20%EA%B8%B0%EB%B3%B8%20%EC%A0%95%EB%A0%AC%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC.py)
+1. [위에서 아래로](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/4.%20Sorting/6_1_%EC%9C%84%EC%97%90%EC%84%9C%20%EC%95%84%EB%9E%98%EB%A1%9C.py)
 
 ## CodeUp
 - 온라인 알고리즘 풀이 사이트인 [코드업(CodeUp)](https://codeup.kr/index.php)에서 푼 문제 정리
@@ -59,3 +71,7 @@
 1. [1402_거꾸로 출력하기 3](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%8A%A4%ED%83%9D/1402_%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0%203.py)
 2. [1714_숫자 거꾸로 출력하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%8A%A4%ED%83%9D/1714_%EC%88%AB%EC%9E%90%20%EA%B1%B0%EA%BE%B8%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)
 3. [3117_0은 빼](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%8A%A4%ED%83%9D/3117_0%EC%9D%80%20%EB%B9%BC.py)
+
+### 재귀함수
+1. [1901_1부터 n까지 출력하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/1901_1%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)
+2. [1902_1부터 n까지 역순으로 출력하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/1902_1%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%20%EC%97%AD%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)

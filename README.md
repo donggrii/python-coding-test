@@ -60,6 +60,21 @@
 3. [두 배열의 원소 교체](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/4.%20Sorting/6_3_%EB%91%90%20%EB%B0%B0%EC%97%B4%EC%9D%98%20%EC%9B%90%EC%86%8C%20%EA%B5%90%EC%B2%B4.py)
 
 ### 5. Binary Search
+- [순차 탐색(Sequential Search)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/5.%20Binary%20Search/%EC%88%9C%EC%B0%A8%20%ED%83%90%EC%83%89(Sequential%20Search).py)
+- [이진 탐색(Binary Search)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/5.%20Binary%20Search/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89(Binary%20Search).py)
+1. 부품 찾기
+
+- (cf) 입력 데이터 빠르게 입력받기
+
+    > - 이진 탐색 문제는 입력 데이터가 많거나, 탐색 범위가 매우 넓은 편
+    > - 데이터가 1,000만 개 이상 or 탐색 범위가 1,000억 이상이라면 이진 탐색 알고리즘을 의심해볼 것
+    ```python
+    import sys
+
+    # 하나의 문자열 데이터 입력받기
+    # rstrip() : 입력 후 Enter로 생긴 줄 바꿈 기호(공백 문자) 제거
+    input_data = sys.stdin.readline().rstrip()
+    ```
 
 
 ## CodeUp

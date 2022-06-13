@@ -76,6 +76,13 @@ class Solution:
             right -= 1
 
 # 다른 풀이 3 : Cyclic Move Elements
+#             * Explanation : We divided nums by k groups, and each time we move one group to desire index.
+#                             Once counter == len(nums) means we have moved all elements so the array is in-place moved.
+#             * Eventually we have to move array's element n times, so we set a counter move = 0
+#             -> Step 1: Start from index 0
+#                        => Each time we move elements to index (current + k), 
+#                           once we found our current == start, means we finished a cycle group
+#                Step 2: Increase start by 1 => Back to Step 1
 # Time Complexity : O(n) -> Let n be num's length
 # Space Complexity : O(1)
 class Solution:

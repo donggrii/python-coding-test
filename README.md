@@ -29,6 +29,7 @@
 
 ## 나동빈 이취코테
 - 나동빈 님이 집필하신 "이것이 취업을 위한 코딩 테스트다 with 파이썬" 책에서 푼 문제 정리 & 개념 정리
+- [시간 복잡도 비교·계산](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/comparing_the_time_complexity.py)
 
 ### 1. 그리디(Greedy)
 1. [거스름돈](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/1.%20Greedy/3_1_%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.py)
@@ -62,7 +63,9 @@
 ### 5. Binary Search
 - [순차 탐색(Sequential Search)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/5.%20Binary%20Search/%EC%88%9C%EC%B0%A8%20%ED%83%90%EC%83%89(Sequential%20Search).py)
 - [이진 탐색(Binary Search)](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/5.%20Binary%20Search/%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89(Binary%20Search).py)
-1. 부품 찾기
+- [트리 자료구조 & 이진 탐색 트리](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/5.%20Binary%20Search/%ED%8A%B8%EB%A6%AC%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%20%26%20%EC%9D%B4%EC%A7%84%20%ED%83%90%EC%83%89%20%ED%8A%B8%EB%A6%AC.ipynb)
+1. [부품 찾기](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/5.%20Binary%20Search/7_1_%EB%B6%80%ED%92%88%20%EC%B0%BE%EA%B8%B0.py)
+2. [떡볶이 떡 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/5.%20Binary%20Search/7_2_%EB%96%A1%EB%B3%B6%EC%9D%B4%20%EB%96%A1%20%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 
 - (cf) 입력 데이터 빠르게 입력받기
 
@@ -75,6 +78,9 @@
     # rstrip() : 입력 후 Enter로 생긴 줄 바꿈 기호(공백 문자) 제거
     input_data = sys.stdin.readline().rstrip()
     ```
+
+### 6. Dynamic Programming
+- 
 
 
 ## CodeUp
@@ -95,3 +101,18 @@
 ### 재귀함수
 1. [1901_1부터 n까지 출력하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/1901_1%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)
 2. [1902_1부터 n까지 역순으로 출력하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/CodeUp/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98/1902_1%EB%B6%80%ED%84%B0%20n%EA%B9%8C%EC%A7%80%20%EC%97%AD%EC%88%9C%EC%9C%BC%EB%A1%9C%20%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0.py)
+
+
+## Baekjoon
+|Number|Title|Category|Solution|
+|:------:|:-------:|:--------:|:--------:|
+|1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|실버 2|[Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/Baekjoon/1260_DFS%EC%99%80%20BFS.py)|
+
+
+## LeetCode
+
+### Array
+|Number|Title|Category|Solution|
+|:------:|:-------:|:--------:|:--------:|
+|136|[Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)|Easy|[Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B136%5D%5BEasy%5D%20Single%20Number.py)|
+|189|[Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)|Easy|[Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B189%5D%5BEasy%5D%20Rotate%20Array.py)|

@@ -89,8 +89,8 @@ class Solution:
     def rotate(self, nums, k):
         k %= len(nums)
         start, move = 0, 0
-        while move < len(nums):
-            current, prev = start, nums[start]
+        while move < len(nums):                    # 결국 모든 요소값 n개를 변경해야 하므로 len(nums)만큼 반복
+            current, prev = start, nums[start]     # prev : 변경하기 이전의 값을 저장할 변수
             while True:
                 nextIdx = (current + k) % len(nums)
                 nums[nextIdx], prev = prev, nums[nextIdx]

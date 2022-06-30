@@ -19,7 +19,7 @@ class Solution:
     def singleNumber(self, nums):
         return 2 * sum(set(nums)) - sum(nums)
 
-# 다른 풀이 2-1 : XOR 연산 이용
+# 다른 풀이 2-1 : XOR 연산 이용 (XOR : 두 수가 같으면 0, 다르면 1을 반환)
 from functools import reduce
 
 class Solution:
@@ -47,7 +47,7 @@ class Solution:
 # Output: 1
 
 # Test Case 4.
-# Input: nums = [[-999, -500, -999, 9000, 9000]
+# Input: nums = [-999, -500, -999, 9000, 9000]
 # Output: -500
 
 test = Solution()

@@ -19,6 +19,7 @@
 - [월간 코드 챌린지 시즌2 - 음양 더하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/negative_and_positive.py)
 - [정렬 - K번째수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/sort_Kth%20number.py)
 - [연습문제 - 수박수박수박수박수박수?](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/watermelon.py)
+- [연습문제 - 문자열 내 p와 y의 개수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/find_p_and_y.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)
@@ -80,7 +81,9 @@
     ```
 
 ### 6. Dynamic Programming
-- 
+- [Dynamic Programming의 개념](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/Dynamic%20Programming%EC%9D%98%20%EA%B0%9C%EB%85%90.ipynb)
+1. [1로 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/8_1_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
+2. 개미 전사
 
 
 ## CodeUp

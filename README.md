@@ -20,6 +20,7 @@
 - [정렬 - K번째수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/sort_Kth%20number.py)
 - [연습문제 - 수박수박수박수박수박수?](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/watermelon.py)
 - [연습문제 - 문자열 내 p와 y의 개수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/find_p_and_y.py)
+- [연습문제 - 문자열을 정수로 바꾸기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/convert_str_to_int.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)

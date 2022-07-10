@@ -21,6 +21,10 @@
 - [연습문제 - 수박수박수박수박수박수?](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/watermelon.py)
 - [연습문제 - 문자열 내 p와 y의 개수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/find_p_and_y.py)
 - [연습문제 - 문자열을 정수로 바꾸기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/convert_str_to_int.py)
+- [연습문제 - 문자열 다루기 기본](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/string_handling_basic.py)
+- [연습문제 - 서울에서 김서방 찾기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/find_kim_in_seoul.py)
+- [연습문제 - 2016년](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/2016_year.py)
+- [연습문제 - 하샤드 수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/harshad_number.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)
@@ -74,11 +78,11 @@
     > - 이진 탐색 문제는 입력 데이터가 많거나, 탐색 범위가 매우 넓은 편
     > - 데이터가 1,000만 개 이상 or 탐색 범위가 1,000억 이상이라면 이진 탐색 알고리즘을 의심해볼 것
     ```python
-    import sys
+  import sys
 
-    # 하나의 문자열 데이터 입력받기
-    # rstrip() : 입력 후 Enter로 생긴 줄 바꿈 기호(공백 문자) 제거
-    input_data = sys.stdin.readline().rstrip()
+  # 하나의 문자열 데이터 입력받기
+  # rstrip() : 입력 후 Enter로 생긴 줄 바꿈 기호(공백 문자) 제거
+  input_data = sys.stdin.readline().rstrip()
     ```
 
 ### 6. Dynamic Programming

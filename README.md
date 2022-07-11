@@ -25,6 +25,7 @@
 - [연습문제 - 서울에서 김서방 찾기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/find_kim_in_seoul.py)
 - [연습문제 - 2016년](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/2016_year.py)
 - [연습문제 - 하샤드 수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/harshad_number.py)
+- [연습문제 - 이상한 문자 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/make_strange_characters.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)

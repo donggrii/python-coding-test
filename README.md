@@ -26,6 +26,7 @@
 - [연습문제 - 2016년](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/2016_year.py)
 - [연습문제 - 하샤드 수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/harshad_number.py)
 - [연습문제 - 이상한 문자 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/make_strange_characters.py)
+- [연습문제 - 두 정수 사이의 합](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/sum_between_two_integers.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)
@@ -113,15 +114,16 @@
 
 
 ## Baekjoon
-|Number|Title|Category|Solution|
-|:------:|:-------:|:--------:|:--------:|
-|1260|[DFS와 BFS](https://www.acmicpc.net/problem/1260)|실버 2|[Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/Baekjoon/1260_DFS%EC%99%80%20BFS.py)|
+
+| Number |                      Title                       | Category |                                                    Solution                                                    |
+|:------:|:------------------------------------------------:|:--------:|:--------------------------------------------------------------------------------------------------------------:|
+|  1260  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |   실버 2   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/Baekjoon/1260_DFS%EC%99%80%20BFS.py) |
 
 
 ## LeetCode
 
 ### Array
-|Number|Title|Category|Solution|
-|:------:|:-------:|:--------:|:--------:|
-|136|[Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)|Easy|[Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B136%5D%5BEasy%5D%20Single%20Number.py)|
-|189|[Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)|Easy|[Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B189%5D%5BEasy%5D%20Rotate%20Array.py)|
+| Number |                                                  Title                                                  | Category |                                                              Solution                                                              |
+|:------:|:-------------------------------------------------------------------------------------------------------:|:--------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+|  136   | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B136%5D%5BEasy%5D%20Single%20Number.py) |
+|  189   | [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)  |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B189%5D%5BEasy%5D%20Rotate%20Array.py)  |

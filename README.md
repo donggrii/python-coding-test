@@ -30,6 +30,10 @@
 - [연습문제 - 가운데 글자 가져오기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/get_middle_character.py)
 - [연습문제 - 나누어 떨어지는 숫자 배열](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/array_of_divisible_numbers.py)
 - [연습문제 - 약수의 합](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/sum_of_divisor.py)
+- [연습문제 - 평균 구하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/get_mean.py)
+- [연습문제 - 콜라츠 추측](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/collatz_assumption.py)
+- [연습문제 - 행렬의 덧셈](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/addition_of_matrix.py)
+- [연습문제 - 정수 내림차순으로 배치하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/descending_order_of_integers.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)

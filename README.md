@@ -34,6 +34,13 @@
 - [연습문제 - 콜라츠 추측](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/collatz_assumption.py)
 - [연습문제 - 행렬의 덧셈](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/addition_of_matrix.py)
 - [연습문제 - 정수 내림차순으로 배치하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/descending_order_of_integers.py)
+- [연습문제 - 직사각형 별찍기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/rectangular_star.py)
+- [연습문제 - 문자열 내 마음대로 정렬하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/sort_strings_as_you_like.py)
+- [해시 - 폰켓몬](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/hash_ponkemon.py)
+- [연습문제 - x만큼 간격이 있는 n개의 숫자](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/n_numbers_spaced_by_x.py)
+- [연습문제 - 제일 작은 수 제거하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/remove_the_smallest.py)
+- [스택/큐 - 같은 숫자는 싫어](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/stack_not_same_number.py)
+- [Summer/Winter Coding(~2018) - 예산](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/budget.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)

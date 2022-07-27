@@ -41,6 +41,10 @@
 - [연습문제 - 제일 작은 수 제거하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/remove_the_smallest.py)
 - [스택/큐 - 같은 숫자는 싫어](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/stack_not_same_number.py)
 - [Summer/Winter Coding(~2018) - 예산](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/budget.py)
+- [연습문제 - 시저 암호](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/caesar_cipher.py)
+- [연습문제 - 소수 찾기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/find_prime_number.py)
+- [연습문제 - 짝수와 홀수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/even_and_odd.py)
+- [연습문제 - 자릿수 더하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/add_digits.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)

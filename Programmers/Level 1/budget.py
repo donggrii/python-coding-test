@@ -10,7 +10,7 @@ def solution(d, budget):
     return cnt + 1
 
 
-# 다른 풀이 : budget이 전체 d의 합보다 작아질 때까지 pop으로 d의 최댓값 제거
+# 다른 풀이 : budget이 전체 d의 합보다 크거나 같을 때까지 pop으로 d의 최댓값 제거
 # 만약, d의 길이가 매우 길고 budget이 작은 수일 경우, 계속 전체 리스트를 sum 해주므로 효율성 문제 발생 가능
 def solution(d, budget):
     d.sort()

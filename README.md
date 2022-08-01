@@ -45,6 +45,11 @@
 - [연습문제 - 소수 찾기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/find_prime_number.py)
 - [연습문제 - 짝수와 홀수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/even_and_odd.py)
 - [연습문제 - 자릿수 더하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/add_digits.py)
+- [연습문제 - 자연수 뒤집어 배열로 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/reverse_num_to_array.py)
+- [완전탐색 - 최소직사각형](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/bruteForce_minimum_rectangle.py)
+- [연습문제 - 정수 제곱근 판별](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/sqrt_of_integer.py)
+- [월간 코드 챌린지 시즌1 - 두 개 뽑아서 더하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/pick_two_and_add.py)
+- [2019 KAKAO BLIND RECRUITMENT - 실패율](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/failure_rate.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)

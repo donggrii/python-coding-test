@@ -59,7 +59,7 @@
 - [2019 KAKAO BLIND RECRUITMENT - 오픈채팅방](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/open_chat_room.py)
 
 ## 나동빈 이취코테
-- 나동빈 님이 집필하신 "이것이 취업을 위한 코딩 테스트다 with 파이썬" 책에서 푼 문제 정리 & 개념 정리
+- 나동빈 님이 집필하신 `이것이 취업을 위한 코딩 테스트다 with 파이썬` 책에서 푼 문제 정리 & 개념 정리
 - [시간 복잡도 비교·계산](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/comparing_the_time_complexity.py)
 
 ### 1. 그리디(Greedy)
@@ -145,8 +145,14 @@
 
 ## LeetCode
 
-### Array
-| Number |                                                  Title                                                  | Category |                                                              Solution                                                              |
-|:------:|:-------------------------------------------------------------------------------------------------------:|:--------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-|  136   | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B136%5D%5BEasy%5D%20Single%20Number.py) |
-|  189   | [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)  |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B189%5D%5BEasy%5D%20Rotate%20Array.py)  |
+| Type  | Number |                                                    Title                                                    | Category |                                                              Solution                                                              |
+|:-----:|:------:|:-----------------------------------------------------------------------------------------------------------:|:--------:|:----------------------------------------------------------------------------------------------------------------------------------:|
+| Array |  136   |   [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)   |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B136%5D%5BEasy%5D%20Single%20Number.py) |
+| Array |  189   |   [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)    |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B189%5D%5BEasy%5D%20Rotate%20Array.py)  |
+
+### Coding Interview
+- 박상길 님이 집필하신 `파이썬 알고리즘 인터뷰` 책에서 푼 LeetCode 문제 정리
+
+|  Type  | Number |                                 Title                                 | Category |                                                                        Solution                                                                         |
+|:------:|:------:|:---------------------------------------------------------------------:|:--------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|  그래프   |  200   | [Number of Islands](https://leetcode.com/problems/number-of-islands/) |  Medium  | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Coding%20Interview/%5B200%5D%5BMedium%5D%20Number%20of%20Islands.py) |

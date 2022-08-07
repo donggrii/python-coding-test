@@ -12,7 +12,7 @@
 - [2019 카카오 개발자 겨울 인턴십 - 크레인 인형뽑기 게임](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/crane_claw_machine_game.ipynb)
 - [2018 KAKAO BLIND RECRUITMENT - [1차] 다트 게임](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/dart_game.ipynb)
 - [2018 KAKAO BLIND RECRUITMENT - [1차] 비밀지도](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/secret_map.py)
-- [완전탐색 - 모의고사](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/fullSearch_trialExam.ipynb)
+- [완전탐색 - 모의고사](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/bruteForce_trialExam.ipynb)
 - [탐욕법(Greedy) - 체육복](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/greedy_uniform.ipynb)
 - [해시 - 완주하지 못한 선수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/hash_marathonPlayer.ipynb)
 - [2020 카카오 인턴십 - 키패드 누르기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/kakao_keypad.ipynb)
@@ -50,6 +50,9 @@
 - [연습문제 - 정수 제곱근 판별](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/sqrt_of_integer.py)
 - [월간 코드 챌린지 시즌1 - 두 개 뽑아서 더하기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/pick_two_and_add.py)
 - [2019 KAKAO BLIND RECRUITMENT - 실패율](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/failure_rate.py)
+- [월간 코드 챌린지 시즌1 - 3진법 뒤집기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/reverse_ternary.py)
+- [연습문제 - 핸드폰 번호 가리기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/covering_phone_number.py)
+- [연습문제 - 최대공약수와 최소공배수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/gcd_lcm.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)
@@ -57,6 +60,7 @@
 - [2020 카카오 인턴십 - 수식 최대화](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/maximize_formula.py)
 - [힙(Heap) - 더 맵게](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/more_spicy.py)
 - [2019 KAKAO BLIND RECRUITMENT - 오픈채팅방](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/open_chat_room.py)
+- [완전탐색 - 피로도](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/bruteForce_fatigue.py)
 
 ## 나동빈 이취코테
 - 나동빈 님이 집필하신 `이것이 취업을 위한 코딩 테스트다 with 파이썬` 책에서 푼 문제 정리 & 개념 정리
@@ -113,8 +117,7 @@
 ### 6. Dynamic Programming
 - [Dynamic Programming의 개념](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/Dynamic%20Programming%EC%9D%98%20%EA%B0%9C%EB%85%90.ipynb)
 1. [1로 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/8_1_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
-2. 개미 전사
-
+2. [개미 전사](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/8_2_%EA%B0%9C%EB%AF%B8%20%EC%A0%84%EC%82%AC.py)
 
 ## CodeUp
 - 온라인 알고리즘 풀이 사이트인 [코드업(CodeUp)](https://codeup.kr/index.php)에서 푼 문제 정리
@@ -145,10 +148,11 @@
 
 ## LeetCode
 
-| Type  | Number |                                                    Title                                                    | Category |                                                              Solution                                                              |
-|:-----:|:------:|:-----------------------------------------------------------------------------------------------------------:|:--------:|:----------------------------------------------------------------------------------------------------------------------------------:|
-| Array |  136   |   [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/)   |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B136%5D%5BEasy%5D%20Single%20Number.py) |
-| Array |  189   |   [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)    |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B189%5D%5BEasy%5D%20Rotate%20Array.py)  |
+| Type  | Number |                                                  Title                                                  | Category |                                                                            Solution                                                                            |
+|:-----:|:------:|:-------------------------------------------------------------------------------------------------------:|:--------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Array |  136   | [Single Number](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/549/) |   Easy   |               [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B136%5D%5BEasy%5D%20Single%20Number.py)               |
+| Array |  189   | [Rotate Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/646/)  |  Medium  |               [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B189%5D%5BEasy%5D%20Rotate%20Array.py)                |
+ | Array |  121   |    [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)    |   Easy   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/LeetCode/Array/%5B121%5D%5BEasy%5D%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py) |
 
 ### Coding Interview
 - 박상길 님이 집필하신 `파이썬 알고리즘 인터뷰` 책에서 푼 LeetCode 문제 정리

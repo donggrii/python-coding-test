@@ -61,6 +61,8 @@
 - [힙(Heap) - 더 맵게](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/more_spicy.py)
 - [2019 KAKAO BLIND RECRUITMENT - 오픈채팅방](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/open_chat_room.py)
 - [완전탐색 - 피로도](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/bruteForce_fatigue.py)
+- [완전탐색 - 카펫](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/bruteForce_carpet.py)
+- [해시 - 위장](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/hash_camouflage.py)
 
 ## 나동빈 이취코테
 - 나동빈 님이 집필하신 `이것이 취업을 위한 코딩 테스트다 with 파이썬` 책에서 푼 문제 정리 & 개념 정리
@@ -118,6 +120,7 @@
 - [Dynamic Programming의 개념](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/Dynamic%20Programming%EC%9D%98%20%EA%B0%9C%EB%85%90.ipynb)
 1. [1로 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/8_1_1%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 2. [개미 전사](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/8_2_%EA%B0%9C%EB%AF%B8%20%EC%A0%84%EC%82%AC.py)
+3. [바닥 공사](https://github.com/DongChan-Lee/python-coding-test/blob/master/%EB%82%98%EB%8F%99%EB%B9%88%20%EC%9D%B4%EC%B7%A8%EC%BD%94%ED%85%8C/6.%20Dynamic%20Programming/8_3_%EB%B0%94%EB%8B%A5%20%EA%B3%B5%EC%82%AC.py)
 
 ## CodeUp
 - 온라인 알고리즘 풀이 사이트인 [코드업(CodeUp)](https://codeup.kr/index.php)에서 푼 문제 정리

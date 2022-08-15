@@ -1,3 +1,5 @@
+# 완전탐색 - 모음사전
+
 # 내 풀이 (중복순열 라이브러리 이용)
 from itertools import product
 

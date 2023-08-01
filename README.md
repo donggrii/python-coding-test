@@ -53,6 +53,7 @@
 - [월간 코드 챌린지 시즌1 - 3진법 뒤집기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/reverse_ternary.py)
 - [연습문제 - 핸드폰 번호 가리기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/covering_phone_number.py)
 - [연습문제 - 최대공약수와 최소공배수](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%201/gcd_lcm.py)
+- [연습문제 - 추억 점수](https://github.com/donggrii/python-coding-test/blob/master/Programmers/Level%201/memory_score.py)
 
 ### Level 2
 - [연습문제 - JadenCase 문자열 만들기](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/JadenCase.py)
@@ -63,6 +64,12 @@
 - [완전탐색 - 피로도](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/bruteForce_fatigue.py)
 - [완전탐색 - 카펫](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/bruteForce_carpet.py)
 - [해시 - 위장](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/hash_camouflage.py)
+- [스택/큐 - 주식가격](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/stack_stock_price.py)
+- [완전탐색 - 모음사전](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%202/bruteForce_vowel_dictionary.py)
+
+### Level 3
+- [힙(Heap) - 이중우선순위큐](https://github.com/DongChan-Lee/python-coding-test/blob/master/Programmers/Level%203/heap_double_priority_queue.py)
+
 
 ## 나동빈 이취코테
 - 나동빈 님이 집필하신 `이것이 취업을 위한 코딩 테스트다 with 파이썬` 책에서 푼 문제 정리 & 개념 정리
@@ -144,9 +151,10 @@
 
 ## Baekjoon
 
-| Number |                      Title                       | Category |                                                    Solution                                                    |
-|:------:|:------------------------------------------------:|:--------:|:--------------------------------------------------------------------------------------------------------------:|
-|  1260  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |   실버 2   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/Baekjoon/1260_DFS%EC%99%80%20BFS.py) |
+| Number |                      Title                       | Category |                                                        Solution                                                         |
+|:------:|:------------------------------------------------:|:--------:|:-----------------------------------------------------------------------------------------------------------------------:|
+|  1260  | [DFS와 BFS](https://www.acmicpc.net/problem/1260) |   실버 2   |     [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/Baekjoon/1260_DFS%EC%99%80%20BFS.py)      |
+|  1189  |   [컴백홈](https://www.acmicpc.net/problem/1189)    |   실버 1   | [Solution](https://github.com/DongChan-Lee/python-coding-test/blob/master/Baekjoon/1189_%EC%BB%B4%EB%B0%B1%ED%99%88.py) |
 
 
 ## LeetCode

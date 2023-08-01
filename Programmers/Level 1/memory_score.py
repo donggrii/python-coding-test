@@ -1,4 +1,4 @@
-# 추억 점수
+# 연습문제 - 추억 점수
 
 
 # 내 풀이 : dictionary와 get(key[, default])를 이용

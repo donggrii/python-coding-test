@@ -72,6 +72,10 @@
 ### Level 3
 - [힙(Heap) - 이중우선순위큐](https://github.com/donggrii/python-coding-test/blob/master/Programmers/Level%203/heap_double_priority_queue.py)
 
+### [SQL] Level 1
+- [SELECT - 모든 레코드 조회하기](https://github.com/donggrii/python-coding-test/blob/master/Programmers/%5BSQL%5D%20Level%201/select_all_records.sql)
+- [SELECT - 역순 정렬하기](https://github.com/donggrii/python-coding-test/blob/master/Programmers/%5BSQL%5D%20Level%201/sort_in_reverse_order.sql)
+
 
 ## 나동빈 이취코테
 - 나동빈 님이 집필하신 `이것이 취업을 위한 코딩 테스트다 with 파이썬` 책에서 푼 문제 정리 & 개념 정리

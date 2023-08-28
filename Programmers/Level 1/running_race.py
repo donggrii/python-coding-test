@@ -1,4 +1,5 @@
 # 연습문제 - 달리기 경주
+# 정리 : https://ddonggrii.tistory.com/1
 
 
 # 내 풀이
